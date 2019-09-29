@@ -4,6 +4,10 @@ This repo is just to save the best and useful plugins as well configurations to 
 
 For a pretty and best code install the fallow packages in the vscode. 
 
+In first place, you need to connect the terminal to the vscode.
+1. Launch VS Code.
+2. Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+
 <details>
 <summary><b>Script to install geral extensions</b></summary>
  
