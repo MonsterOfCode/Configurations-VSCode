@@ -13,21 +13,22 @@ In first place, you need to connect the terminal to the vscode.
  
  ```
  code --install-extension formulahendry.auto-close-tag
- code --install-extension wwm.better-align
- code --install-extension eamodio.gitlens
- code --install-extension equinusocio.vsc-material-theme
  code --install-extension formulahendry.auto-complete-tag
  code --install-extension formulahendry.auto-rename-tag
- code --install-extension naumovs.color-highlight
- code --install-extension waderyan.gitblame
  code --install-extension christian-kohler.path-intellisense
- code --install-extension cssho.vscode-svgviewer
+ code --install-extension kamikillerto.vscode-colorize
  code --install-extension wayou.vscode-todo-highlight
- code --install-extension wmaurer.change-case
+ code --install-extension equinusocio.vsc-material-theme
+ code --install-extension eamodio.gitlens
+ code --install-extension waderyan.gitblame
  code --install-extension streetsidesoftware.code-spell-checker
  code --install-extension christian-kohler.npm-intellisense
- code --install-extension jasonnutter.search-node-modules
+ code --install-extension ms-vscode-remote.remote-ssh
+ code --install-extension cssho.vscode-svgviewer
  code --install-extension coenraads.bracket-pair-colorizer
+ code --install-extension chakrounanas.turbo-console-log
+ code --install-extension vscode-icons-team.vscode-icons
+ code --install-extension esbenp.prettier-vscode
  ```
 
 </details>
@@ -36,9 +37,8 @@ In first place, you need to connect the terminal to the vscode.
 <summary><b>Script to install extensions Web Aplication</b></summary>
 
  ```
+ code --install-extension pranaygp.vscode-css-peek
  code --install-extension mikestead.dotenv
- code --install-extension onecentlin.laravel5-snippets
- code --install-extension bmewburn.vscode-intelephense-client
  code --install-extension felixfbecker.php-intellisense
  ```
 </details>
@@ -47,12 +47,7 @@ In first place, you need to connect the terminal to the vscode.
 <summary><b>Script to install extensions Mobile Aplication</b></summary>
 
  ```
- code --install-extension dbaeumer.vscode-eslint
- code --install-extension jundat95.react-native-snippet
- code --install-extension msjsdiag.vscode-react-native
- code --install-extension mgmcdermott.vscode-language-babel
  code --install-extension flowtype.flow-for-vscode
- code --install-extension esbenp.prettier-vscode
  code --install-extension dsznajder.es7-react-js-snippets
  ```
 </details>
