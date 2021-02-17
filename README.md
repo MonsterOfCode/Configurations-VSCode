@@ -17,7 +17,9 @@ In first place, you need to connect the terminal to the vscode.
  code --install-extension formulahendry.auto-rename-tag
  code --install-extension christian-kohler.path-intellisense
  code --install-extension kamikillerto.vscode-colorize
- code --install-extension wayou.vscode-todo-highlight
+ code --install-extension aaron-bond.better-comments
+ code --install-extension kevinkyang.auto-comment-blocks
+ code --install-extension unarlimbo.banner-comments-plus
  code --install-extension equinusocio.vsc-material-theme
  code --install-extension eamodio.gitlens
  code --install-extension waderyan.gitblame
