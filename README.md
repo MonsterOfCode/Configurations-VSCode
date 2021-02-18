@@ -46,11 +46,12 @@ In first place, you need to connect the terminal to the vscode.
 </details>
 
 <details>
-<summary><b>Script to install extensions Mobile Aplication</b></summary>
+<summary><b>Script to install extensions Flutter </b></summary>
 
  ```
- code --install-extension flowtype.flow-for-vscode
- code --install-extension dsznajder.es7-react-js-snippets
+ code --install-extension dart-code.flutter
+ code --install-extension dart-code.dart-code
+
  ```
 </details>
 
