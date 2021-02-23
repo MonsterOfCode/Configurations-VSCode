@@ -51,6 +51,7 @@ In first place, you need to connect the terminal to the vscode.
  ```
  code --install-extension dart-code.flutter
  code --install-extension dart-code.dart-code
+ code --install-extension dskwrk.vscode-generate-getter-setter
 
  ```
 </details>
