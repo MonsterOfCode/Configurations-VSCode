@@ -32,6 +32,7 @@ In first place, you need to connect the terminal to the vscode.
  code --install-extension vscode-icons-team.vscode-icons
  code --install-extension esbenp.prettier-vscode
  code --install-extension usernamehw.errorlens
+ code --install-extension sygene.auto-correct
  ```
 
 </details>
