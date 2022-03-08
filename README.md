@@ -24,6 +24,7 @@ In first place, you need to connect the terminal to the vscode.
  code --install-extension eamodio.gitlens
  code --install-extension waderyan.gitblame
  code --install-extension streetsidesoftware.code-spell-checker
+ code --install-extension streetsidesoftware.code-spell-checker-portuguese
  code --install-extension christian-kohler.npm-intellisense
  code --install-extension ms-vscode-remote.remote-ssh
  code --install-extension cssho.vscode-svgviewer
