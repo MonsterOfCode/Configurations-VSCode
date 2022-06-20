@@ -12,6 +12,7 @@ In first place, you need to connect the terminal to the vscode.
 <summary><b>Script to install geral extensions</b></summary>
  
  ```
+ code --install-extension lunarlimbo.banner-comments-plus
  code --install-extension formulahendry.auto-close-tag
  code --install-extension formulahendry.auto-complete-tag
  code --install-extension formulahendry.auto-rename-tag
